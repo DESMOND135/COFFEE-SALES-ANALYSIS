@@ -46,4 +46,4 @@ From the analysiS, I have the following findings:
 - More should be invested on coffee since it has the highest salse folleewd by tea.
 - The coffee shop should be open early enough on friday sine many people
  like to buy on friday because it is weekend.
-- And more coffees should be availab,especially during th month of June
+- And more coffees should be availab,especially during th month of June.
