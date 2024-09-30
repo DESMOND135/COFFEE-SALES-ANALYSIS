@@ -1,8 +1,8 @@
-# COFFEE-SALES-ANALYSI
+# COFFEE-SALES-ANALYSIS
 
 ## DATA ANALYTICS PROJECT ON COFFEE SALES
 
-## Project Over Viewage
+## Project Overview 
 
 The main aim of the project was to analyze the sales of the various coffee categories over time.
 
@@ -35,7 +35,7 @@ The following were taking into consideration
 
 ## Result and Findings
 
-From the analysiS, I have the following findings:
+From the analyses, I obtained the following :
 - $698.812 was generated within the time frame
 - Coffe has the highest transactions followed by tea with the 58416 and 45449 respectively
 - Most sale was recorded during 10am, with a transaction of 18544
@@ -43,7 +43,7 @@ From the analysiS, I have the following findings:
 - June was the highest month with the most transactions
 
 ## Recommendations
-- More should be invested on coffee since it has the highest salse folleewd by tea.
-- The coffee shop should be open early enough on friday sine many people
+- More should be invested on coffee since it has the highest sale followed by tea.
+- The coffee shop should be open early enough on friday since many people
  like to buy on friday because it is weekend.
-- And more coffees should be availab,especially during th month of June.
+- And more coffee should be availab,especially during th month of June.
